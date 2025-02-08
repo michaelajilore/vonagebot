@@ -3,8 +3,8 @@ from time import sleep
 import tkinter as tk
 
 # Vonage API credentials
-api_key = 'db6a10ce'
-api_secret = 'dcjCnMt6qsvHugaN'
+api_key = ''
+api_secret = ''
 control = 0
 
 # Initialize Vonage client
